@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    --color-primary: #90caf9;
+    --color-primary-dark: #5d99c6;
+    --color-primary-light: #c3fdff;
+    --color-secondary: #e3f2fd;
+    --color-secondary-dark: #b1bfca;
+    --color-secondary-light: #ffffff;
+
+    margin: 0;
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="DevComLogo.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 107.80525 94.620872"
+   height="94.620872mm"
+   width="107.80525mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="704"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="186.44695"
+     inkscape:cx="103.28261"
+     inkscape:zoom="0.74650296"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-19.107927,-36.935886)">
+    <circle
+       r="46.560436"
+       cy="84.246323"
+       cx="73.010551"
+       id="path836"
+       style="fill:#000000;fill-opacity:0.99999994;stroke:#ff0000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       r="35.643944"
+       cy="84.246323"
+       cx="73.010551"
+       id="path839"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.264999;stroke-linejoin:round" />
+    <path
+       transform="matrix(0.97755898,-0.85306357,0.43665458,0.64191102,-34.378616,93.581528)"
+       d="M 127.87009,82.892161 92.262045,102.02413 72.60246,137.34361 53.470493,101.73556 18.151016,82.075978 53.759057,62.944012 73.418643,27.624534 92.55061,63.232576 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.79283687"
+       sodipodi:arg1="0.0074387069"
+       sodipodi:r2="27.430529"
+       sodipodi:r1="54.861053"
+       sodipodi:cy="82.48407"
+       sodipodi:cx="73.010551"
+       sodipodi:sides="4"
+       id="path837"
+       style="fill:#000080;stroke:#000080;stroke-width:0.179342;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <text
+       transform="skewX(-31.140679)"
+       id="text835"
+       y="83.663971"
+       x="121.50263"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:0.85;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.205734"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ff0000;stroke-width:0.205734"
+         y="83.663971"
+         x="121.50263"
+         id="tspan833"
+         sodipodi:role="line">Dev</tspan><tspan
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ff0000;stroke-width:0.205734"
+         y="100.45623"
+         x="121.50263"
+         sodipodi:role="line">   Commune</tspan></text>
+  </g>
+</svg>

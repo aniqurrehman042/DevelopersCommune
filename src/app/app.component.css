@@ -1,0 +1,38 @@
+header {
+    width: 100%;
+    background-color: var(--color-primary);
+    border-bottom: solid 5px var(--color-primary-dark);
+}
+
+#headerLogo {
+    width: 75px;
+    height: 75px;
+    clear: both;
+}
+
+nav {
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    padding: 20px 40px;
+}
+
+nav a:hover {
+    color: var(--color-primary-dark);
+}
